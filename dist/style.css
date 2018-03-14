@@ -60,6 +60,7 @@ body {
 }
 #app section {
     max-width: 500px;
+    min-height: 330px;
 }
 #app section h1 {
     margin-bottom: 30px;
